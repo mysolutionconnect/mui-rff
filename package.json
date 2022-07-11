@@ -50,7 +50,7 @@
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@mui/material": "^5.6.1",
-    "@mui/material/styles": "^5.6.1",
+    
     "@mui/x-date-pickers": "^5.0.0-alpha.0",
     "final-form": ">=4.19.1 < 5",
     "react": ">=16",
@@ -66,7 +66,7 @@
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@mui/material": "^5.6.1",
-    "@mui/material/styles": "^5.6.1",
+    
     "@mui/x-date-pickers": "^5.0.0-alpha.0",
     "@testing-library/react": "^12.1.5",
     "@types/node": "^17.0.23",
